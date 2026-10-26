@@ -1,0 +1,26 @@
+{
+    "generated_at": "2026-10-26T14:30:28+00:00",
+    "channel": "stable",
+    "plugins": [
+        {
+            "slug": "niaga",
+            "name": "Niaga",
+            "version": "1.0.0",
+            "description": "",
+            "requires_core": ">=1.0.0",
+            "paid": false,
+            "manifest": "plugins/niaga/stable.json",
+            "changelog": "Rilis awal kanal distribusi TeraCMS."
+        },
+        {
+            "slug": "seo-lokasi",
+            "name": "SEO Lokasi",
+            "version": "1.0.0",
+            "description": "",
+            "requires_core": ">=1.0.0",
+            "paid": false,
+            "manifest": "plugins/seo-lokasi/stable.json",
+            "changelog": "Rilis awal kanal distribusi TeraCMS."
+        }
+    ]
+}
