@@ -1,0 +1,17 @@
+{
+    "product": "teracms-theme-kuning-madu",
+    "slug": "kuning-madu",
+    "name": "Kuning Madu",
+    "version": "1.0.0",
+    "channel": "stable",
+    "package_url": "https://github.com/alimukarrom/teracms-dist/releases/download/theme-kuning-madu-v1.0.0/teracms-theme-kuning-madu-1.0.0.zip",
+    "requires_core": ">=1.0.0",
+    "requires_php": ">=8.3",
+    "min_php": "8.3",
+    "released_at": "2026-10-26",
+    "sha256": "ab467231547ba460fd2d4834775e07a64629b62d25bdf2c588cf300a4f13f9be",
+    "signature": "bm1flQgn8fYpX7Y8NRdJXXHQhl+sbplbWmlJ2fwD0egjz+QymYxbvzGozJMnhfh/mR5S5eZ6wADdxo6/ZuarBw==",
+    "size_bytes": 8606,
+    "changelog": "Rilis awal kanal distribusi TeraCMS.",
+    "changelog_url": null
+}

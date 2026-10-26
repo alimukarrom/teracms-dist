@@ -1,0 +1,17 @@
+{
+    "product": "teracms-theme-majalah",
+    "slug": "majalah",
+    "name": "Majalah",
+    "version": "1.0.0",
+    "channel": "stable",
+    "package_url": "https://github.com/alimukarrom/teracms-dist/releases/download/theme-majalah-v1.0.0/teracms-theme-majalah-1.0.0.zip",
+    "requires_core": ">=1.0.0",
+    "requires_php": ">=8.3",
+    "min_php": "8.3",
+    "released_at": "2026-10-26",
+    "sha256": "fff8d0ca0e7b32a2c388a07846064ee2f5279a55b5fb99222cbf4a706f513d6a",
+    "signature": "kUEC+HVY4xIj+hk+R3Y+/3xdgR6MYEa7ZqYRmlA3RQn5zPrz0Uc6RjZPsWr11P0eEjy3OE8o8T5C6VFNNrXxAA==",
+    "size_bytes": 56802,
+    "changelog": "Rilis awal kanal distribusi TeraCMS.",
+    "changelog_url": null
+}

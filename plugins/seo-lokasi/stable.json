@@ -1,0 +1,17 @@
+{
+    "product": "teracms-plugin-seo-lokasi",
+    "slug": "seo-lokasi",
+    "name": "SEO Lokasi",
+    "version": "1.0.0",
+    "channel": "stable",
+    "package_url": "https://github.com/alimukarrom/teracms-dist/releases/download/plugin-seo-lokasi-v1.0.0/teracms-plugin-seo-lokasi-1.0.0.zip",
+    "requires_core": ">=1.0.0",
+    "requires_php": ">=8.3",
+    "min_php": "8.3",
+    "released_at": "2026-10-26",
+    "sha256": "65edc7e6579acee474fa509f7a03c75b5c91ebb41de7eed28d063ad48cecec58",
+    "signature": "B4r/x+QQDUzXmY0RF8rCiHbyTPT1CjsWDNTQnhVKstbUX4Sh62iSe4MRC/Ip8T5cW7ROk+jO2BFtYHsHnvAvCw==",
+    "size_bytes": 48355,
+    "changelog": "Rilis awal kanal distribusi TeraCMS.",
+    "changelog_url": null
+}

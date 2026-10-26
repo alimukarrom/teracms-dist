@@ -1,0 +1,17 @@
+{
+    "product": "teracms-theme-majalah-anak",
+    "slug": "majalah-anak",
+    "name": "Majalah Anak (Contoh Tema Anak)",
+    "version": "1.0.0",
+    "channel": "stable",
+    "package_url": "https://github.com/alimukarrom/teracms-dist/releases/download/theme-majalah-anak-v1.0.0/teracms-theme-majalah-anak-1.0.0.zip",
+    "requires_core": ">=1.0.0",
+    "requires_php": ">=8.3",
+    "min_php": "8.3",
+    "released_at": "2026-10-26",
+    "sha256": "f4b87e01e684bcb63cc2d4b1632d8ad31fc51497a207a991a8849421632fdd78",
+    "signature": "dl38yvucOtoElF/Kesx8aar4mxblDa2nifMmoCdTpkec5WwwCANDbPKPiKGr8/9XLNX4PE+f8Ovc9cnqcgyyDA==",
+    "size_bytes": 2273,
+    "changelog": "Rilis awal kanal distribusi TeraCMS.",
+    "changelog_url": null
+}

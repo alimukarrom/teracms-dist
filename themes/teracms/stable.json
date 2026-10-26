@@ -1,0 +1,17 @@
+{
+    "product": "teracms-theme-teracms",
+    "slug": "teracms",
+    "name": "TeraCMS (Tera Default)",
+    "version": "1.0.0",
+    "channel": "stable",
+    "package_url": "https://github.com/alimukarrom/teracms-dist/releases/download/theme-teracms-v1.0.0/teracms-theme-teracms-1.0.0.zip",
+    "requires_core": ">=1.0.0",
+    "requires_php": ">=8.3",
+    "min_php": "8.3",
+    "released_at": "2026-10-26",
+    "sha256": "d298e1f46402aae32e1293ad58316cb91555fdbe8bdfcfe4b69c787e466316ef",
+    "signature": "fAZmigosL36tBCnmpiAUAFqVk6DQwzUBrbLFx2bm0R7j8cmrHpC4QwLpvM0FXyMsmy3oB9ObQHd2nZab3mpqAQ==",
+    "size_bytes": 534,
+    "changelog": "Rilis awal kanal distribusi TeraCMS.",
+    "changelog_url": null
+}

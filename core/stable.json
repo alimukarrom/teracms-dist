@@ -1,0 +1,15 @@
+{
+    "product": "teracms-core",
+    "version": "1.0.0",
+    "channel": "stable",
+    "package_url": "https://github.com/alimukarrom/teracms-dist/releases/download/core-v1.0.0/teracms-core-1.0.0.zip",
+    "requires_php": ">=8.3",
+    "min_php": "8.3",
+    "min_updatable_from": "1.0.0",
+    "released_at": "2026-10-26",
+    "sha256": "0a83f95290d27af1400c77954281415bd0c676587deac6866f43f53f8cb5e344",
+    "signature": "humOPQrflegUpvPABs1hUBfLhc/jDbpQJZCPrfcoJJHOew0SUhf7Fs21fmNWhrYNV3Zhz9J1WmsxpQnG5h3XAA==",
+    "size_bytes": 65584357,
+    "changelog": "Rilis awal kanal distribusi TeraCMS.",
+    "changelog_url": null
+}

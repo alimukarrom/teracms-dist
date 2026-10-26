@@ -1,0 +1,17 @@
+{
+    "product": "teracms-plugin-niaga",
+    "slug": "niaga",
+    "name": "Niaga",
+    "version": "1.0.0",
+    "channel": "stable",
+    "package_url": "https://github.com/alimukarrom/teracms-dist/releases/download/plugin-niaga-v1.0.0/teracms-plugin-niaga-1.0.0.zip",
+    "requires_core": ">=1.0.0",
+    "requires_php": ">=8.3",
+    "min_php": "8.3",
+    "released_at": "2026-10-26",
+    "sha256": "bd659ab19fbd97f97107dda96e214cd32e1adf145dd429561e87fca3f28acc41",
+    "signature": "Y6gEZ1FIFbpS0qTOB+Zg9oM2zHWnxUq9lCszodX8w1k82i8ytR+XOmxCsItk5THsVbGPDW73rMkhSgCnCdVhBw==",
+    "size_bytes": 30981,
+    "changelog": "Rilis awal kanal distribusi TeraCMS.",
+    "changelog_url": null
+}
