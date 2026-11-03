@@ -1,0 +1,17 @@
+{
+    "product": "teracms-theme-goskill",
+    "slug": "goskill",
+    "name": "GoSkill",
+    "version": "1.0.0",
+    "channel": "stable",
+    "package_url": "https://github.com/alimukarrom/teracms-dist/releases/download/theme-goskill-v1.0.0/teracms-theme-goskill-1.0.0.zip",
+    "requires_core": ">=1.0.0",
+    "requires_php": ">=8.3",
+    "min_php": "8.3",
+    "released_at": "2026-11-03",
+    "sha256": "2a45c97a0a7fa0fb125ebe08b30ae4ffadf78d7518f035b0a9f88f08a36782a4",
+    "signature": "hfvXGnJ3pgOQUz9+/Cx7VBv8fmS6u0AutND0SO81Ejq/hkmcP47lmQbYrqvhnlJoE6rqb0H9rAJcjzXQt0mwCg==",
+    "size_bytes": 119973,
+    "changelog": "Rilis 1.0.0.",
+    "changelog_url": null
+}
